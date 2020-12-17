@@ -67,8 +67,8 @@ a {
 	text-decoration: none;
 }
 a:hover {
-	color: gray;
-	transition-duration: 1s;
+	color: white;
+	transition-duration: 0.8s;
 }
 a:active {
 	opacity: 0.4;
